@@ -8,7 +8,7 @@
   Developer | Creator | Tech Enthusiast
 </h3>
 
-<!-- Social Badges based on your profile -->
+<!-- Social Badges -->
 <p align="center">
   <a href="https://youtube.com/@kuzeyalpyildiz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://instagram.com/yildizkuzeyalp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -24,9 +24,9 @@
 - **Name:** Kuzey Alp Yıldız
 - **Pronouns:** he/him
 - **Website:** [northai.online/portfolio](https://northai.online/portfolio)
-- **Contact:** inorthstudios@gmail.om
+- **Contact:** inorthstudios@gmail.com
 - **Currently working on:** Building open-source software, Discord bots, and interactive applications.
-- **Tech Stack:** Node.js, JavaScript, Python, Linux / WSL.
+- **Tech Stack:** Node.js, JavaScript, Python, Linux / WSL, Git.
 
 ---
 
@@ -37,19 +37,19 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### GitHub Stats
+### GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuzeyalpyildiz&theme=tokyodark&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuzeyalpyildiz&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyalpyildiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzeyalpyildiz&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kuzeyalpyildiz&theme=tokyonight" width="100%" />
 </div>
