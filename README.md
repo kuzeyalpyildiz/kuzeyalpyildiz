@@ -1,25 +1,32 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there,%20I'm%20[Your%20Name]&fontSize=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20there,%20I'm%20Kuzey%20Alp%20Yıldız&fontSize=34&animation=fadeIn" width="100%" />
 </div>
 
-<!-- Bio Subtitle -->
+<!-- Subtitle -->
 <h3 align="center">
-  Full-Stack Developer | Bot Creator | Tech Enthusiast
+  Developer | Creator | Tech Enthusiast
 </h3>
 
+<!-- Social Badges based on your profile -->
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/@kuzeyalpyildiz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/yildizkuzeyalp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitch.tv/kuzeyalpyildiz"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://northai.online/portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" /></a>
+  <a href="mailto:support@northai.online"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About Me
 
-- **Currently working on:** Building awesome open-source projects & Discord bots.
+- **Name:** Kuzey Alp Yıldız[cite: 1]
+- **Pronouns:** he/him[cite: 1]
+- **Website:** [northai.online/portfolio](https://northai.online/portfolio)[cite: 1]
+- **Contact:** inorthstudios@gmail.om[cite: 1]
+- **Currently working on:** Building open-source software, Discord bots, and interactive applications.
 - **Tech Stack:** Node.js, JavaScript, Python, Linux / WSL, Git.
-- **Fun Fact:** I love tweaking hardware configurations and writing CLI automation tools.
 
 ---
 
@@ -38,12 +45,12 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuzeyalpyildiz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyalpyildiz&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuzeyalpyildiz&theme=tokyonight&hide_border=true" width="97%" />
 </div>
